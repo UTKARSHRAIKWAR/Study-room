@@ -1,2 +1,13 @@
+# Ignore node modules
+node_modules/
+
+# Ignore environment files
 .env
-.gitignore
+
+# Ignore build output
+dist/
+build/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
