@@ -4,7 +4,6 @@ import Notes from "./components/Notes";
 import Timer from "./components/Timer";
 import FlashCard from "./components/FlashCard";
 import GPTComponent from "./components/GPTComponent";
-import Navbar from "./components/Navbar";
 
 const AppLayout = () => {
   return (
