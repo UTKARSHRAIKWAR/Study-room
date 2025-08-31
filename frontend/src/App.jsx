@@ -11,7 +11,7 @@ function App() {
   return (
     <>
       <h1 className="App">
-        <Navbar className="fixed" />
+        <Navbar />
         <Routes>
           <Route path="/" Component={HomePage} />
           <Route path="/home" Component={AppLayout} />
