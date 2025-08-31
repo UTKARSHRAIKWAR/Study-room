@@ -19,15 +19,6 @@ export default function GPTComponent() {
       className="relative flex min-h-screen flex-col bg-[#101323] overflow-x-hidden"
       style={{ fontFamily: '"Noto Serif", "Noto Sans", sans-serif' }}
     >
-      {/* Header */}
-      {/* <header className="flex items-center justify-between border-b border-[#21284a] px-10 py-3">
-        <div className="flex items-center gap-4 text-white">
-          <div className="w-4 h-4"></div>
-          <h2 className="text-lg font-bold">Study Room</h2>
-        </div>
-        <button className="flex items-center gap-2 rounded-xl h-10 bg-[#21284a] px-3 text-white text-sm font-bold"></button>
-      </header> */}
-
       {/* Main Content */}
       <main className="px-6 md:px-40 flex flex-1 justify-center py-5">
         <div className="flex flex-col w-full max-w-[960px]">
